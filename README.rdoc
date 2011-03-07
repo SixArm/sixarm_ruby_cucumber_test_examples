@@ -1,0 +1,12 @@
+= SixArm.com » Ruby » Cucumber examples for feature tests
+
+Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
+Copyright:: Copyright (c) 2008-2011 Joel Parker Henderson
+License:: See LICENSE.txt file
+
+Cucumber is a Ruby gem for Behavior Driven Development (BDD).
+
+Cucumber enables us to write our specifications as user stories,
+then automatically test the stories on our application codebase.
+
+To learn more about Cucumber, see http://cukes.info
