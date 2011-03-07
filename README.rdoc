@@ -1,4 +1,4 @@
-= SixArm.com » Ruby » Cucumber examples for feature tests
+= SixArm.com » Ruby » Cucumber test examples for feature tests
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2008-2011 Joel Parker Henderson
