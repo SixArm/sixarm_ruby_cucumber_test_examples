@@ -3,36 +3,6 @@ require File.expand_path(File.join(File.dirname(__FILE__), "..", "support", "pat
 
 ###############################################################
 #
-# Users
-#
-###############################################################
-
-Given /I am a user/ do
-  @user= Factory(:user)
-end
-
-def current_user
- @user
-end
-
-###############################################################
-#
-# Roles
-#
-###############################################################
-
-Given /my role is (\w+)/i do |rbac_role_xid|  
-  @user.rbac_roles=[Factory(:rbac_role, :xid =>  rbacrole_xid)]
-end
-
-Given /I am an admin/ do
-  Given "I am a user"
-  Given "my role is admin"
-end
-
-
-###############################################################
-#
 # Sign In
 #
 ###############################################################
