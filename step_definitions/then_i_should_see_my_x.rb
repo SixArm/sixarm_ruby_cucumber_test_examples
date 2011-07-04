@@ -20,12 +20,14 @@
 #   => Then I should see current_user.us_postal_address
 
 Then /^(?:|I )should see my (.+)\.?$/ do |target|
-  user = current_user
-  method_sym = target.gsub(/\./,'').gsub(/\W+/,'_').downcase.to_sym
-  if user.methods.include?(method_sym)
-    target_text = current_user.send(method_sym)
-    Then "I should see \"#{target_text}\""
-  else
+  user=current_user
+  if user==nil 
+    raise "The current user is nil" 
+  end
+  method_sym=target.gsub(/\./,'').gsub(/\W+/,'_').downcase.to_sym
+  if !user.methods.include?(method_sym)
     raise "The current user does not have a target \"#{target}\" method \"#{method_sym}\""
   end
+  target_text=user.send(method_sym)
+  Then "I should see \"#{target_text}\""
 end
