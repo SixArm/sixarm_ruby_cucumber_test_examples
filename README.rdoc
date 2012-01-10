@@ -1,6 +1,6 @@
 = SixArm.com » Ruby » Cucumber test examples for feature tests
 
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
+Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
 Copyright:: Copyright (c) 2008-2011 Joel Parker Henderson
 License:: See LICENSE.txt file
 
