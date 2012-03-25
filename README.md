@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Cucumber test examples for feature tests
 
-* Docs: <http://sixarm.com/sixarm_ruby_cucumber/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_cucumber/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_>
 * Repo: <http://github.com/sixarm/sixarm_ruby_cucumber>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
