@@ -3,7 +3,7 @@
 * Doc: <http://sixarm.com/sixarm_ruby_cucumber/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_>
 * Repo: <http://github.com/sixarm/sixarm_ruby_cucumber>
-* Email: Joel Parker Henderson, <joel@sixarm.com>
+<!--HEADER-SHUT-->
 
 
 ## Introduction
@@ -20,16 +20,3 @@ For docs go to <http://sixarm.com/sixarm_ruby_cucumber/doc>
 Want to help? We're happy to get pull requests.
 
 
-## Install quickstart
-
-Install:
-
-    gem install
-
-Bundler:
-
-    gem "", "="
-
-Require:
-
-    require ""
