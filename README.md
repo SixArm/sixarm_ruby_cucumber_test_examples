@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> Cucumber test examples for feature tests
+# SixArm.com → Ruby → <br> Cucumber test examples for feature tests
 
 * Doc: <http://sixarm.com/sixarm_ruby_cucumber/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_>
