@@ -3,7 +3,7 @@
 * Doc: <http://sixarm.com/sixarm_ruby_cucumber/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_>
 * Repo: <http://github.com/sixarm/sixarm_ruby_cucumber>
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
